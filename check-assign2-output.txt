@@ -1,6 +1,6 @@
 ---Host/Student info----
 
-Running on Wed Mar 12 07:22:59 PM EDT 2025
+Running on Wed Mar 12 07:49:02 PM EDT 2025
 Run by anjan - () on host
  Static hostname: anjan-VirtualBox
       Machine ID: 74067c382450411eb4bdb05d2e5ab853
@@ -19,7 +19,7 @@ Network mgmt deleted
 Network lan created
 Network mgmt created
 Launching openwrt
-Retrieving image: Unpack: 100% (1.72GB/s)                                          Retrieving image: Unpack: 100% (1.72GB/s)                                          Launching server1
-Retrieving image: Unpack: 100% (3.44GB/s)                                          Retrieving image: Unpack: 100% (3.44GB/s)                                          Pushing /home/anjan/.ssh/id_ed25519.pub to /home/remoteadmin/.ssh/id_ed25519.pub: 100% (431.54MB/s)                                                                                                    Waiting for server1 restart
+Retrieving image: Unpack: 100% (1.45GB/s)                                          Retrieving image: Unpack: 100% (1.45GB/s)                                          Launching server1
+Retrieving image: Unpack: 100% (1.53GB/s)                                          Retrieving image: Unpack: 100% (1.53GB/s)                                          Pushing /home/anjan/.ssh/id_ed25519.pub to /home/remoteadmin/.ssh/id_ed25519.pub: 100% (207.58MB/s)                                                                                                    Waiting for server1 restart
 ---Retrieving assignment2.sh script---
 Failed to retrieve assignment2.sh script using URL 'https://github.com/COMP2137/anjan/raw/main/assignment2.sh'
